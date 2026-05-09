@@ -1,0 +1,15 @@
+TABLA DE POSICIONES
+-------------------------
+River: 15 puntos
+Boca: 10 puntos
+Racing: 2 puntos
+Independiente: 1 puntos
+San Lorenzo: 0 puntos
+
+GRAFICO DE PUNTOS
+-------------------------
+River           | *************** (15)
+Boca            | ********** (10)
+Racing          | ** (2)
+Independiente   | * (1)
+San Lorenzo     |  (0)
